@@ -1,0 +1,7 @@
+{
+	"name": "Vs Silly Billy Mod Folder Port",
+	"description": "Port by UliseGas, for V0.6.3",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}
