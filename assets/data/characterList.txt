@@ -24,4 +24,9 @@ pico-speaker
 bf-holding-gf
 pico-player
 tankman-player
-silly-billy
+bf-lookalike
+bfurself
+evilLookalike
+p2exe
+transLookalike
+transLookalike2
